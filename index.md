@@ -14,9 +14,6 @@
 
 <a class="nav-top-link" href="https://synapsex.co/">DOWNLOAD</a>
 </div>
-</div>
-</div>
-</div>
 </header>
 <div id="content" class="content-area" role="main"><section id="section_1670745659" class="section">
 <div class="section-content relative">
@@ -29,19 +26,14 @@
 <div class="icon">
 <div class="icon-inner"><img class="attachment-medium size-medium" src="https://synapsex.co/wp-content/uploads/2021/05/cropped-synapse-x-1-192x192.png" alt="Synapse X extra small icon" width="100" height="100" /></div>
 </div>
-</div>
 <div class="icon-box-text last-reset">
 <h1 class="uppercase" style="text-align: center;"><span data-text-color="primary">SYNAPSE X</span>: Roblox Executor <span data-text-color="secondary">Script</span>Free Latest Version</h1>
 <p class="lead" style="text-align: center;">Synapse X is the leading exploit script executor tool for Roblox. Our software can bypass any anti-cheat and inject scripts at a 3x faster rate than the industry standard.</p>
 
 <div id="gap-1934657587" class="gap-element clearfix" style="text-align: center;"></div>
 </div>
-</div>
 <p style="text-align: center;"><a class="button success is-gloss is-larger expand" href="https://synapsex.co/" target="_self" data-animate="fadeInDown" data-animated="true"><i class="icon-angle-right"></i> GET SYNAPSE X NOW</a></p>
 
-</div>
-</div>
-</div>
 </div>
 <h2>What’s Synapse X?</h2>
 Synapse X is one of the most popular scripting engines available for gamers. The software allows you to create, edit and run scripts conveniently on your PC. It was developed for Windows and macOS users and will run in all versions of these operating systems. This allows you to create and run your games easily and conveniently and ensures you always get the best performance.
