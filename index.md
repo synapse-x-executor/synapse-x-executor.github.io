@@ -1,4 +1,4 @@
-<head>  <title>Synapse X Executor</title>
+<head><title>Synapse X Executor</title>
 <meta name="description" content="Synapse X is one of the most popular scripting engines available for gamers. The software allows you to create, edit and run scripts conveniently on your PC." />
 </head>
 <center><a title="Synapse X Script Executor for Roblox | Free Download 2022" href="https://synapsex.co/" rel="home"><img class="header-logo-dark aligncenter" src="https://synapsex.co/wp-content/webp-express/webp-images/uploads/2021/04/synapse-x-logo.png.webp" alt="Synapse X" width="200" height="90" /></a></div>
