@@ -1,1 +1,1 @@
-# synapse-x-executor.github.io
+https://synapse-x-executor.github.io/
