@@ -12,7 +12,7 @@
 
 <a class="nav-top-link" href="https://synapse-x-executor.github.io/" aria-current="page">SYNAPSE X</a>
 
-<a class="nav-top-link" href="https://synapsex.co/">DOWNLOAD</a>
+<a class="nav-top-link" href="https://synapsex.co/">DOWNLOAD Now</a>
 </div>
 </header>
 <div id="content" class="content-area" role="main"><section id="section_1670745659" class="section">
